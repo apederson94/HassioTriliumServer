@@ -1,5 +1,4 @@
-# Home Assistant Add-on Devcontainer Template
-
+# Home Assistant Add-on Devcontainer Template v0.1
 ### Summary
 
 This is a templated to ease development of Home Assistant add-ons inside of a VS Code [devcontainer](https://code.visualstudio.com/docs/remote/containers).
