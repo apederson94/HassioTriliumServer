@@ -11,6 +11,7 @@
   "arch": ["amd64", "armv7", "armhf", "i386" , "aarch64"],
   "ingress": true,
   "ingress_port": 8080,
+  "map": ["ssl"],
   "ports": {
     "8080/tcp": null
   },
